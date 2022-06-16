@@ -96,7 +96,7 @@ Eatfit
 
 ## Wireframes
 [Add picture of your hand sketched wireframes in this section]
-<img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
+<img src="https://drive.google.com/file/d/17oDSWXWHtBaJ8YpH8pYi6cjQSJaQajoE/view?usp=sharing" width=600>
 
 ### [BONUS] Digital Wireframes & Mockups
 
